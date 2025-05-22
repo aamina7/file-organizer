@@ -11,4 +11,4 @@ A simple Python GUI app that organizes files in a selected folder by file type.
 1. Install Python
 2. Run the script:
    ```bash
-   python file_organizer.py
+   main_gui.py
